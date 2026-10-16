@@ -1,0 +1,10 @@
+{
+  "description": "Showcase stunning photography with a visually striking portfolio site designed for photographers, enhancing their online presence and attracting clients.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
